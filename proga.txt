@@ -1,4 +1,9 @@
 1
+2
+3
+4
+5
+6
 // Your First C++ Program
 
 #include <iostream>
@@ -7,12 +12,3 @@ int main() {
     std::cout << "Hello World!";
     return 0;
 }
-
-<<<<<<< HEAD
-
-213
-23
-2
-=======
-123
->>>>>>> bf4348cf9f4fa73d0528df1b35380365cf0e2c82
